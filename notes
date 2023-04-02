@@ -1,0 +1,23 @@
+IN THIS I WILL WRITE THE NOTES 
+1. git log --  for history of commits i have made
+2. git restore --staged file.txt --> ye file ko unstage kr deti h
+3 git add .
+4 git status
+5 git git commit -m"any message"
+6 /*
+     see when i ll use git log command i got all the commit with an id i have ma     de in the past and if i copy id of one of commit and put it in (git reset _     )command above commits from that id will be removed
+  */
+7 git reset ( ) --> delete all comits present above that id
+8 git stash --> issse selceted files backstage chli jaengi whenever you want to                  take them back you can just by give command"git stash pop"
+9 git stash pop -->  it bring back those file who were on backstage
+10 git stash clear --> by this those backstage files will be permanantely gone
+11              woooooh!!!!!!!!!!!!
+           TIME TO HOST OUR PROJECT ON GIT
+
+
+12 git remote add origin ___url
+   remote---> it means you are working with urls
+   add-->  it means you are adding a new url
+   origin--> name of url going to be
+
+
